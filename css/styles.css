@@ -1,0 +1,180 @@
+a {
+  color: #aa4a30;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  background-color: #f7f2e7;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #aa4a30;
+  font-family: 'Merriweather', serif;
+  font-size: 3rem;
+  line-height: 2;
+}
+
+h2 {
+  color: #aa4a30;
+  font-family: 'Merriweather', serif;
+  margin: 40 auto 10 auto;
+  padding-top: 50px;
+}
+
+h3 {
+  color: #cf7500;
+  font-family: 'Merriweather', serif;
+  padding-bottom: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 8%;
+  border-color: #ffa931;
+  border-width: thick;
+}
+
+img {
+  width: 80px;
+  margin: 0px auto 0px auto;
+}
+
+li {
+  color: #f0a500;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1.2rem;
+  white-space: pre;
+}
+
+p {
+  color: #f0a500;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1.1rem;
+}
+
+th {
+  text-align: center;
+}
+
+ul {
+  padding-left: 80px;
+}
+
+.brown {
+  color: #87431d;
+  margin: 0;
+}
+
+.btn {
+  background: #F8BD7F;
+  background-image: -webkit-linear-gradient(top, #F8BD7F, #FF9234);
+  background-image: -moz-linear-gradient(top, #F8BD7F, #FF9234);
+  background-image: -ms-linear-gradient(top, #F8BD7F, #FF9234);
+  background-image: -o-linear-gradient(top, #F8BD7F, #FF9234);
+  background-image: linear-gradient(to bottom, #F8BD7F, #FF9234);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  width: 139px;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 0;
+}
+
+.btn:hover {
+  background: #EFEE9D;
+  background-image: -webkit-linear-gradient(top, #EFEE9D, #F8B24F);
+  background-image: -moz-linear-gradient(top, #EFEE9D, #F8B24F);
+  background-image: -ms-linear-gradient(top, #EFEE9D, #F8B24F);
+  background-image: -o-linear-gradient(top, #EFEE9D, #F8B24F);
+  background-image: linear-gradient(to bottom, #EFEE9D, #F8B24F);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.centered {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  height: 350px;
+  background-size: contain;
+}
+
+.handwritting {
+  font-family: 'Mansalva', cursive;
+  font-size: 2.5rem;
+  margin: 0px auto 0px auto;
+  padding-top: 60px;
+}
+
+.job-title {
+  color: #aa4a30;
+}
+
+.main-link {
+  color: #cf7500;
+}
+
+.bottom-container {
+  background-color: #fecb89;
+}
+
+.profile {
+  background-color: #f7f2e7;
+  padding-bottom: 100px;
+}
+
+.profile-pic {
+  padding-top: 20px;
+  width: 200px;
+}
+
+.edu-row {
+  width: 65%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
+
+.row {
+  width: 65%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+}
+
+#name {
+  display: absolute;
+  height: 0px;
+}
+
+#course-pic {
+  float: left;
+}
