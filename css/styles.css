@@ -111,16 +111,8 @@ ul {
   text-decoration: none;
 }
 
-.centered {
-  position: absolute;
-  top: 28%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .container {
   height: 350px;
-  background-size: contain;
 }
 
 .handwritting {
@@ -136,6 +128,11 @@ ul {
 
 .main-link {
   color: #cf7500;
+}
+
+.main-link2 {
+  color: #aa4a30;
+  font-size: 1.1rem;
 }
 
 .bottom-container {
