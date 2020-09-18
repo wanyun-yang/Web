@@ -130,9 +130,18 @@ ul {
   color: #cf7500;
 }
 
+.main-link:hover {
+  color: #f0a500;
+}
+
 .main-link2 {
   color: #aa4a30;
-  font-size: 1.1rem;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1rem;
+}
+
+.main-link2:hover {
+  color: #f0a500;
 }
 
 .bottom-container {
