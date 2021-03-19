@@ -3,6 +3,7 @@ a {
   font-family: 'Merriweather', serif;
   margin: 10px 20px;
   text-decoration: none;
+  font-size: 1.3rem;
 }
 
 a:hover {
@@ -28,12 +29,14 @@ h2 {
   font-family: 'Merriweather', serif;
   margin: 40 auto 10 auto;
   padding-top: 50px;
+  font-size: 2.5rem;
 }
 
 h3 {
   color: #cf7500;
   font-family: 'Merriweather', serif;
   padding-bottom: 10px;
+  font-size: 2rem;
 }
 
 hr {
@@ -116,6 +119,7 @@ ul {
 }
 
 .handwritting {
+  color: #aa4a30;
   font-family: 'Mansalva', cursive;
   font-size: 2.5rem;
   margin: 0px auto 0px auto;
