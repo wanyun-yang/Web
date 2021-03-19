@@ -3,7 +3,6 @@ a {
   font-family: 'Merriweather', serif;
   margin: 10px 20px;
   text-decoration: none;
-  font-size: 1.3rem;
 }
 
 a:hover {
@@ -20,7 +19,7 @@ body {
 h1 {
   color: #aa4a30;
   font-family: 'Merriweather', serif;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 2;
 }
 
@@ -29,14 +28,14 @@ h2 {
   font-family: 'Merriweather', serif;
   margin: 40 auto 10 auto;
   padding-top: 50px;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 h3 {
   color: #cf7500;
   font-family: 'Merriweather', serif;
   padding-bottom: 10px;
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
 
 hr {
@@ -62,7 +61,7 @@ li {
 p {
   color: #58391c;
   font-family: 'Alegreya Sans', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 th {
