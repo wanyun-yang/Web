@@ -3,6 +3,7 @@ a {
   font-family: 'Merriweather', serif;
   margin: 10px 20px;
   text-decoration: none;
+  font-size: 1.2rem;
 }
 
 a:hover {
